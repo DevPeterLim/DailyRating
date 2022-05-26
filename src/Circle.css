@@ -1,0 +1,14 @@
+.yellowCircle{
+    width: 30px;
+    height: 30px;
+    border-radius: 30px;
+    margin: 5px;
+    background-color:rgb(255, 235, 59);
+  }
+.greyCircle{
+    width: 30px;
+    height: 30px;
+    border-radius: 30px;
+    margin: 5px;
+    background-color: rgb(221, 221, 221);
+}
